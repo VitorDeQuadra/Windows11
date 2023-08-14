@@ -30,7 +30,7 @@ body{
 
 #editor {
     padding: 10px;
-    height: 60em;
+    height: 57em;
     overflow-y:auto;
     overflow-x:hidden;
 }
