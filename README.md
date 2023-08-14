@@ -2,4 +2,4 @@
 
 > apps webs, tais como: vscode, paint e word.
 
-Possui data/hora automaticas, junto com o clima automatico.
+Possui data/hora automáticas, junto com o clima automático.
